@@ -1,16 +1,5 @@
-# practical1
+# Random Jokes App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113701661/202160840-fe52dae0-e293-4858-8559-619abac0b177.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701661/202160962-303c9c1d-35f1-47ba-b1d4-df8b7fbcc2e8.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701661/202161016-b569f137-778b-4d5f-9534-9bf8fc401e90.png" height = 500 width = 250>
